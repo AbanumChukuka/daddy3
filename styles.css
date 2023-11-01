@@ -1,0 +1,51 @@
+/**.container {
+  margin-top: 5px;
+}
+
+.character {
+  width: 30%;
+}
+
+.card {
+  display: flex;
+  border: 2px solid black;
+  margin-right: 5px;
+}**/
+
+.text {
+  margin-left: 3px;
+  margin-top: 3px;
+  font-size: 24px;
+  margin-bottom: 5px;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  color: white;
+}
+
+.character {
+  width: 40%;
+}
+
+body {
+  justify-content: center;
+}
+
+.everything {
+  border: 1px solid black;
+  margin-left: 3px;
+  margin-right: 3px;
+  background-image: linear-gradient(red, yellow, red, yellow, red, yellow);
+  
+}
+
+a {
+  text-decoration: none;
+  color: brown;
+}
+
+a:hover {
+  color: red;
+}
